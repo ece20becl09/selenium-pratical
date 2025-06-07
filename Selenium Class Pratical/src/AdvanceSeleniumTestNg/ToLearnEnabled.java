@@ -1,0 +1,36 @@
+package AdvanceSeleniumTestNg;
+
+import java.time.Duration;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Reporter;
+import org.testng.annotations.Test;
+
+public class ToLearnEnabled {
+
+	public class ToLearnThreadPoolSize {
+
+		@Test(invocationCount = 2, threadPoolSize = 1, enabled = false)
+		public void Testgorilla() {
+			WebDriver driver = new ChromeDriver();
+			driver.manage().window().maximize();
+			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
+			driver.get("https://www.testgorilla.com/");
+			Reporter.log("testgorilla website launch", true);
+			driver.quit();
+		}
+
+		@Test(invocationCount = 3, threadPoolSize = 3, enabled = true)
+		public void demowebshop() {
+			WebDriver driver = new ChromeDriver();
+			driver.manage().window().maximize();
+			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
+			driver.get("https://demowebshop.tricentis.com/");
+			Reporter.log("demowebshop get executed", true);
+			driver.quit();
+
+		}
+	}
+
+}

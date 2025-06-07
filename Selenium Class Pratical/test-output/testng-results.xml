@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="3" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Browser Got Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to Demo Web Page]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfully to Demo Web Shop Tricentis]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Books Page Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Account Successfully Logout]]>
+    </line>
+    <line>
+      <![CDATA[Browser Successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser Got Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to Demo Web Page]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfully to Demo Web Shop Tricentis]]>
+    </line>
+    <line>
+      <![CDATA[Account Successfully Logout]]>
+    </line>
+    <line>
+      <![CDATA[Browser Successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser Got Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to Demo Web Page]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfully to Demo Web Shop Tricentis]]>
+    </line>
+    <line>
+      <![CDATA[Smartphone added into cart button]]>
+    </line>
+    <line>
+      <![CDATA[Account Successfully Logout]]>
+    </line>
+    <line>
+      <![CDATA[Browser Successfully Closed]]>
+    </line>
+    <line>
+      <![CDATA[Browser Got Launched]]>
+    </line>
+    <line>
+      <![CDATA[Browser got maximized]]>
+    </line>
+    <line>
+      <![CDATA[Successfully navigated to Demo Web Page]]>
+    </line>
+    <line>
+      <![CDATA[Login Successfully to Demo Web Shop Tricentis]]>
+    </line>
+    <line>
+      <![CDATA[Account Successfully Logout]]>
+    </line>
+    <line>
+      <![CDATA[Browser Successfully Closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-06-06T13:05:08 IST" name="Suite" finished-at="2025-06-06T13:06:19 IST" duration-ms="71144">
+    <groups>
+    </groups>
+    <test started-at="2025-06-06T13:05:08 IST" name="Test" finished-at="2025-06-06T13:06:19 IST" duration-ms="71144">
+      <class name="USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_004">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_004@5b12b668]" started-at="2025-06-06T13:06:08 IST" name="toLaunch" finished-at="2025-06-06T13:06:09 IST" duration-ms="1267" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Got Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_004@5b12b668]" started-at="2025-06-06T13:06:09 IST" name="toLogin" finished-at="2025-06-06T13:06:12 IST" duration-ms="3577" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to Demo Web Page]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfully to Demo Web Shop Tricentis]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="ToCheckApparel()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_004@5b12b668]" started-at="2025-06-06T13:06:12 IST" name="ToCheckApparel" finished-at="2025-06-06T13:06:15 IST" duration-ms="2463" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToCheckApparel -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_004@5b12b668]" started-at="2025-06-06T13:06:15 IST" name="toLogout" finished-at="2025-06-06T13:06:19 IST" duration-ms="3905" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Account Successfully Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_004@5b12b668]" started-at="2025-06-06T13:06:19 IST" name="toCloseBrowser" finished-at="2025-06-06T13:06:19 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_004 -->
+      <class name="USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_003">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_003@327514f]" started-at="2025-06-06T13:05:45 IST" name="toLaunch" finished-at="2025-06-06T13:05:47 IST" duration-ms="1280" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Got Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_003@327514f]" started-at="2025-06-06T13:05:47 IST" name="toLogin" finished-at="2025-06-06T13:05:51 IST" duration-ms="4290" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to Demo Web Page]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfully to Demo Web Shop Tricentis]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="ToCheckElectronics()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_003@327514f]" started-at="2025-06-06T13:05:51 IST" name="ToCheckElectronics" finished-at="2025-06-06T13:06:03 IST" duration-ms="11964" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Smartphone added into cart button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ToCheckElectronics -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_003@327514f]" started-at="2025-06-06T13:06:03 IST" name="toLogout" finished-at="2025-06-06T13:06:07 IST" duration-ms="4380" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Account Successfully Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_003@327514f]" started-at="2025-06-06T13:06:07 IST" name="toCloseBrowser" finished-at="2025-06-06T13:06:08 IST" duration-ms="190" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_003 -->
+      <class name="USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_002">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_002@4c402120]" started-at="2025-06-06T13:05:20 IST" name="toLaunch" finished-at="2025-06-06T13:05:21 IST" duration-ms="1249" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Got Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_002@4c402120]" started-at="2025-06-06T13:05:21 IST" name="toLogin" finished-at="2025-06-06T13:05:25 IST" duration-ms="4194" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to Demo Web Page]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfully to Demo Web Shop Tricentis]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="ToCheckComputerWebPage()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_002@4c402120]" started-at="2025-06-06T13:05:25 IST" name="ToCheckComputerWebPage" finished-at="2025-06-06T13:05:41 IST" duration-ms="15742" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='Add to cart']/../../../..//img[@alt='Picture of Build your own cheap computer']"}
+  (Session info: chrome=137.0.7151.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fc70b0d826320a58ce3149b3d1ce5ef3, findElement {using=xpath, value=//input[@value='Add to cart']/../../../..//img[@alt='Picture of Build your own cheap computer']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\Dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54154}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54154/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fc70b0d826320a58ce3149b3d1ce5ef3]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@value='Add to cart']/../../../..//img[@alt='Picture of Build your own cheap computer']"}
+  (Session info: chrome=137.0.7151.69)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.6'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fc70b0d826320a58ce3149b3d1ce5ef3, findElement {using=xpath, value=//input[@value='Add to cart']/../../../..//img[@alt='Picture of Build your own cheap computer']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 137.0.7151.69, chrome: {chromedriverVersion: 137.0.7151.68 (2989ffee9373..., userDataDir: C:\Users\Dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54154}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54154/devtoo..., se:cdpVersion: 137.0.7151.69, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: fc70b0d826320a58ce3149b3d1ce5ef3
+at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:191)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:196)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:171)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:602)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:359)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:353)
+at USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_002.ToCheckComputerWebPage(TC_NI_002.java:13)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+at org.testng.TestRunner.privateRun(TestRunner.java:741)
+at org.testng.TestRunner.run(TestRunner.java:616)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+at org.testng.TestNG.runSuites(TestNG.java:1112)
+at org.testng.TestNG.run(TestNG.java:1079)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToCheckComputerWebPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_002@4c402120]" started-at="2025-06-06T13:05:41 IST" name="toLogout" finished-at="2025-06-06T13:05:45 IST" duration-ms="4262" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Account Successfully Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_002@4c402120]" started-at="2025-06-06T13:05:45 IST" name="toCloseBrowser" finished-at="2025-06-06T13:05:45 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_002 -->
+      <class name="USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_001">
+        <test-method is-config="true" signature="toLaunch()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_001@702657cc]" started-at="2025-06-06T13:05:08 IST" name="toLaunch" finished-at="2025-06-06T13:05:10 IST" duration-ms="2314" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Got Launched]]>
+            </line>
+            <line>
+              <![CDATA[Browser got maximized]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLaunch -->
+        <test-method is-config="true" signature="toLogin()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_001@702657cc]" started-at="2025-06-06T13:05:10 IST" name="toLogin" finished-at="2025-06-06T13:05:14 IST" duration-ms="3543" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully navigated to Demo Web Page]]>
+            </line>
+            <line>
+              <![CDATA[Login Successfully to Demo Web Shop Tricentis]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogin -->
+        <test-method signature="toCheckBooksPage()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_001@702657cc]" started-at="2025-06-06T13:05:14 IST" name="toCheckBooksPage" finished-at="2025-06-06T13:05:16 IST" duration-ms="1972" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Books Page Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCheckBooksPage -->
+        <test-method is-config="true" signature="toLogout()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_001@702657cc]" started-at="2025-06-06T13:05:16 IST" name="toLogout" finished-at="2025-06-06T13:05:20 IST" duration-ms="3828" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Account Successfully Logout]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toLogout -->
+        <test-method is-config="true" signature="toCloseBrowser()[pri:0, instance:USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_001@702657cc]" started-at="2025-06-06T13:05:20 IST" name="toCloseBrowser" finished-at="2025-06-06T13:05:20 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser Successfully Closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- toCloseBrowser -->
+      </class> <!-- USINGTESTNGPROJECTFORECOMMERCEWEBSITE.TC_NI_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
